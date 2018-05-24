@@ -1,0 +1,12 @@
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\bin\Debug\Scrum-Table.exe.config
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\bin\Debug\Scrum-Table.exe
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\bin\Debug\Scrum-Table.pdb
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum-Table.csprojResolveAssemblyReference.cache
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum_Table.ScrumForm.resources
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum_Table.HikayeForm.resources
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum_Table.Properties.Resources.resources
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum_Table.GorevForm.resources
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum-Table.csproj.GenerateResource.cache
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum-Table.csproj.CoreCompileInputs.cache
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum-Table.exe
+C:\Users\Tutanay\source\repos\Scrum-Table\Scrum-Table\obj\Debug\Scrum-Table.pdb
